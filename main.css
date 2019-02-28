@@ -3,6 +3,9 @@ table {
     position: 50%;
     font-size: 3ch;
     font-family: sans-serif;
+    position: fixed; /* or absolute */
+    left: 45%;
+    background-color: white;
     
   }
   
@@ -14,6 +17,7 @@ table {
   th,td{
 
     padding: 1px;
+    
 }
 .link{
 
